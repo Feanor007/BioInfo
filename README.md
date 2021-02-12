@@ -4,4 +4,4 @@ This repo witnesses how I sharpened my skills while helping others at ShanghaiTe
 Currently I am trying to tidy everthing up
 - [x] ScVelo 
 - [x] Scanpy practice
-- [] PCA plot with two label systems
+- [ ] PCA plot with two label systems
