@@ -8,3 +8,4 @@ Currently I am trying to tidy everthing up, and upload all the scripts written.
 - [x] Ribbon plot 
 ## New Project on COVID-19 CT&CXR 
 - [x] Lung segmentation
+- [ ] Airway segmentation
