@@ -9,3 +9,4 @@ Currently I am trying to tidy everthing up, and upload all the scripts written.
 ## New Project on COVID-19 CT&CXR 
 - [x] Lung segmentation
 - [x] Airway segmentation with 2D U-Net 
+- [x] 3D U-Net
