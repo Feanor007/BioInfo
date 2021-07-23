@@ -11,3 +11,4 @@ Currently I am trying to tidy everthing up, and upload all the scripts written.
 - [x] Airway segmentation with 2D U-Net 
 - [x] 3D U-Net
 - [x] V-Net
+- [x] ResNet
